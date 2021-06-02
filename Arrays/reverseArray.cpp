@@ -54,7 +54,7 @@ int main(){
 }
 */
 
-// Complexity O(n)
+// Complexity O(n^2)
 
 void revSwap(int arr[],int start,int end){
 
