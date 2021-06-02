@@ -27,7 +27,8 @@ int main(){
 }
 */
 
-// Using Arrays
+/* n^2 complexity
+// Using Arrays O[n^2]
 
 int main(){
 
@@ -37,17 +38,18 @@ int main(){
     int arr[n];
     for (int i = 0; i < n; i++)
     {
-        /* code */
+        
         cin >> arr[i];
     }
     
     cout << "reversed arrays" <<endl;
     for (int i = n-1; i >= 0; i--)
     {
-        /* code */
+        
         cout << arr[i] <<" ";
     }
 
     
     
 }
+*/
